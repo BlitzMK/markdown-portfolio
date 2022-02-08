@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+* Food
+  * pizza
+  * Burger
+  * Fried fish 
+
+* Sports 
+  * fencing 
+  * Working out 
+  * Golf 
+
